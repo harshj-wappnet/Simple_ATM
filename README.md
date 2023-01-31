@@ -13,6 +13,8 @@
 ## Language Used
   - JAVA
 
+### IDE Used 
+  - IntelliJ IDEA IDE
 
 
 MADE WITH :heart: BY HARSH
